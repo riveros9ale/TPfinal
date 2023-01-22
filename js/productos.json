@@ -1,0 +1,142 @@
+[
+    {
+        "id": "terror-01",
+        "titulo": "Amnesia",
+        "imagen": "./img/terror/01.png",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "terror-02",
+        "titulo": "Outlast",
+        "imagen": "./img/terror/02.png",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "terror-03",
+        "titulo": "Resident Evil",
+        "imagen": "./img/terror/03.png",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "terror-04",
+        "titulo": "Obscure II",
+        "imagen": "./img/terror/04.png",
+        "categoria": {
+            "nombre": "Terror",
+            "id": "terror"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "deporte-01",
+        "titulo": "Efootball",
+        "imagen": "./img/deporte/01.png",
+        "categoria": {
+            "nombre": "Deporte",
+            "id": "deporte"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "deporte-02",
+        "titulo": "FIFA 23",
+        "imagen": "./img/deporte/02.png",
+        "categoria": {
+            "nombre": "Deporte",
+            "id": "deporte"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "deporte-03",
+        "titulo": "Tennis World Tour",
+        "imagen": "./img/deporte/03.png",
+        "categoria": {
+            "nombre": "Deporte",
+            "id": "deporte"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "deporte-04",
+        "titulo": "NHL 22",
+        "imagen": "./img/deporte/04.png",
+        "categoria": {
+            "nombre": "Deporte",
+            "id": "deporte"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "deporte-05",
+        "titulo": "MADDEN 22",
+        "imagen": "./img/deporte/05.png",
+        "categoria": {
+            "nombre": "Deporte",
+            "id": "deporte"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "deporte-06",
+        "titulo": "NBA 2K22",
+        "imagen": "./img/deporte/06.png",
+        "categoria": {
+            "nombre": "Deporte",
+            "id": "deporte"
+        },
+        "precio": 6200
+    },
+    {
+        "id": "shooter-01",
+        "titulo": "Call Of Duty Black Ops",
+        "imagen": "./img/shooter/01.png",
+        "categoria": {
+            "nombre": "Shooter",
+            "id": "shooter"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "shooter-02",
+        "titulo": "Counter Strike Condition Zero",
+        "imagen": "./img/shooter/02.png",
+        "categoria": {
+            "nombre": "Shooter",
+            "id": "shooter"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "shooter-03",
+        "titulo": "Halo",
+        "imagen": "./img/shooter/03.png",
+        "categoria": {
+            "nombre": "Shooter",
+            "id": "shooter"
+        },
+        "precio": 3300
+    },
+    {
+        "id": "shooter-04",
+        "titulo": "Borderlands 3",
+        "imagen": "./img/shooter/04.png",
+        "categoria": {
+            "nombre": "Shooter",
+            "id": "shooter"
+        },
+        "precio": 5400
+    }
+]
